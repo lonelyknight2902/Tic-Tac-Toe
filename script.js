@@ -26,6 +26,8 @@ const gameBoard = (() => {
   const _play = (position, player) => {
     if (_array[position].innerText == "") {
       _array[position].innerText = player;
+      if(player == "X") _array[position].style.color = "#319FC3";
+      else _array[position].style.color = "#FBBF53"
       return true;
     }
 
