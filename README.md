@@ -6,7 +6,7 @@ Welcome to my version of the Tic-Tac-Toe. This is a project from the [the Odin p
 
 Hope you enjoy my little game.
 
-##Screenshot
+## Screenshot
 - Starting the game
 ![Starting](/images/1.png "Starting the game")
 - Playing the game
