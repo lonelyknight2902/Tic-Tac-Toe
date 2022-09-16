@@ -126,6 +126,8 @@ button {
 }
 
 .cell {
+    box-sizing: border-box;
+    background-color: #fff;
     border: 0.3px solid black;
     width: 100px;
     height: 100px;
@@ -135,4 +137,8 @@ button {
     align-items: center;
     font-size: 6rem;
     font-weight: 700;
+}
+
+.cell:hover {
+    background-color: rgba(49, 159, 195, 0.2);
 }
