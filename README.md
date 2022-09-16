@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-## Live Page: https://lonelyknight2902.github.io/Tic-Tac-Toe/
+## Live Page [here](https://lonelyknight2902.github.io/Tic-Tac-Toe/)
 
 Welcome to my version of the Tic-Tac-Toe. This is a project from the [the Odin project](https://www.theodinproject.com)'s JavaScript Course which focuses on using **factory functions** and **the module pattern**.
 
